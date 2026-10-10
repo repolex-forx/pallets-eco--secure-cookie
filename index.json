@@ -1,0 +1,11 @@
+{
+  "org": "pallets-eco",
+  "repo": "secure-cookie",
+  "versions": [
+    {
+      "commit": "e06d58d068f2f6c4247886fca1a5afdfe140519e",
+      "tag": "",
+      "parsed_at": "2026-10-10T22:05:25.443943+00:00"
+    }
+  ]
+}
