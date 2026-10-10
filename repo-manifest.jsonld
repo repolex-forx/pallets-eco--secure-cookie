@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pallets-eco/secure-cookie/commit/e06d58d068f2f6c4247886fca1a5afdfe140519e",
       "git:hexsha": "e06d58d068f2f6c4247886fca1a5afdfe140519e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pallets-eco/secure-cookie/commit/90ccab8a56cb48708e62546fd259e81d61eb070c",
